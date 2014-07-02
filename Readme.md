@@ -1,6 +1,6 @@
 *Disclaimer: This post is a work in progress. I wanted to release a [minimum viable](https://www.youtube.com/watch?v=_a3s0IXSuxY) version of this post to solicit input. Hopefully you will help me make this better. :-) To do so, tweet @datascimed, leave a comment below, or [fork this post](https://github.com/cb01/sciworkflow) on GitHub.*
 
-*This is the development version of the post. View the most current release at [datascimed.ghost.io]{http://datascimed.ghost.io/naupakas-mac-sci-coding-stack/}*
+*This is the development version of the post. View the most current release at [datascimed.ghost.io](http://datascimed.ghost.io/naupakas-mac-sci-coding-stack/)*
 
 --
 
