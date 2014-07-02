@@ -1,0 +1,74 @@
+** Currently a work in progress **
+
+I'm at the Stanford Software Carpentry bootcamp (http://ivanov.github.io/2014-06-30-stanford/) today and got some great suggestions from Naupaka Zimmerman (@naupakaz; [naupaka.net](http://naupaka.net)) on apps for the Mac to enhance your academic software development workflow. I hope to solicit input from others on their views on this, including alternatives.
+
+According to Naupaka the first thing you should do is download and install [iTerm](http://iterm.sourceforge.net/), an alternative to Apple's "terminal" terminal app. Also key is having the right text editor. For those who prefer a GUI, [Sublime Text](http://www.sublimetext.com/) is a top choice. It has a rich collection of [plugins](https://sublime.wbond.net/) to extend its default feature set. In addition, Sublime provides shortcuts to check and run code. To save even more time, snippets of text you use repeatedly or would like to have templated can be stored and injected using [Text expander](http://smilesoftware.com/TextExpander/index.html). When you're using R in a graphical environment, he also suggests [R Studio](http://www.rstudio.com/) which has builting capability for interacting with git-versioned files.
+
+But Naupaka prefers vim for his development, which is available by default on all -nix distributions. This means any server you log into will have this available by default. Those who have been developing for a long time may have their own highly customized vim environment, including customizations to automatically check python code for syntax errors, to display the current git branch, line numbers, and more. Furthermore, coloring can be customized in vim (Naupaka likes the "Twilight" scheme from [TextMate](http://macromates.com/)), including language-specific syntax coloring (which vim supports). Lastly, if you log into a new machine you will probably want all of your extensive customizations available on that machine. In order to do so, Naupaka suggests pushing your vim configuration file to GitHub and cloning that to the new machine when you log in.
+
+Recently, [git](http://git-scm.com/) has become the dominant version control system. Naupaka uses [Tower](http://www.git-tower.com/), a graphical git client. For complicated merges, he uses [Kaleidoscope](http://www.kaleidoscopeapp.com/) to view diffs graphically, which can be set as the default diff viewer for both Tower and the command-line Git utility. Interestingly, is also capable of visualizing diffs on folders.
+
+Keeping your windows, files, and apps under control is also key. Naupaka uses [Moom](http://manytricks.com/moom/) for managing the sizing and position of windows. It has shortcuts that allow windows to be placed in chosen segments of the screen, saving time on clicking and dragging their corners to exactly the right size. It can simplify things to have only three windows open, a text editor (1/4 screen), an iterm terminal (1/4 screen), and a web browser (1/2 screen).
+
+On the Mac, Spotlight is great but Naupaka prefers [Launchbar](http://www.obdev.at/products/launchbar/index.html), [Alfred](http://www.alfredapp.com/), or [quicksilver](http://qsapp.com/). There is also a path browser alternative to Finder available, [Path finder](http://cocoatech.com/pathfinder/).
+
+
+
+#### backup / storage model
+* Hard drive clone of everything
+	* [Super duper](http://www.shirt-pocket.com/SuperDuper/superduperdescription.html) and [carbon copy cloner](http://www.bombich.com/)
+	* [Arq](http://www.haystacksoftware.com/arq/) for offsite backup to s3 glacier
+	* [Dropbox](dropbox.com) to back everything up to Dropbox, symlink
+
+
+Planning
+
+#### task managers
+* [omnifocus](https://www.omnigroup.com/omnifocus)
+	* Omnifocus + AppleScript
+	* Ittt to email to omnifocus if you star on twitter or rss etc.
+* [omniplan](http://www.omnigroup.com/omniplan)
+
+
+#### managing the lit
+* [Reeder](http://reederapp.com/), star and ittt to make omni focus item
+* [Bookends](http://www.sonnysoftware.com/) gives full text search
+
+#### digi lab notebook
+* [Evernote](https://evernote.com/) as lab notebook
+	* Image text analysis
+	* Evernote merge problem always making new notes
+* [One note](http://office.microsoft.com/en-us/onenote/)
+
+Communication
+
+#### email
+* [Mail mate](http://freron.com/) has markdown emails, integrates with omnifocus
+
+
+#### file and link sharing
+* [Droplr](https://droplr.com/hello) or [cloudapp](http://www.getcloudapp.com/)
+	* both file hosting and link sharing
+	* Have own domain and own click tracking - droplr has click tracking
+* [Bitly](https://bitly.com/) is not a file hoster only shortener
+* ittt
+
+#### twitter client
+* [Tweetbot](http://tapbots.com/software/tweetbot/), spec use URL shortened with droplr
+
+
+collab manuscripts?
+
+
+[1password](https://agilebits.com/onepassword) easy to use in browser, [two factor](http://blog.agilebits.com/2011/09/23/two-factor-or-not-two-factor/)
+
+
+
+
+#### workspace / work hygiene
+* set up desk to prevent carpel tunnel
+* break timer
+* [f.lux](https://justgetflux.com/) - you can go to bed when you're done coding (link to melatonin paper)
+
+
+
