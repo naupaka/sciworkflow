@@ -1,8 +1,10 @@
 *Disclaimer: This post is a work in progress. I wanted to release a [minimum viable](https://www.youtube.com/watch?v=_a3s0IXSuxY) version of this post to solicit input. Hopefully you will help me make this better. :-) To do so, tweet @datascimed, leave a comment below, or [fork this post](https://github.com/cb01/sciworkflow) on GitHub.*
 
+*This is the development version of the post. View the most current release at [datascimed.ghost.io]{http://datascimed.ghost.io/naupakas-mac-sci-coding-stack/}*
+
 --
 
-I'm at the [Stanford Software Carpentry bootcamp](http://ivanov.github.io/2014-06-30-stanford/) today and got some great suggestions from Naupaka Zimmerman ([@naupakaz](https://twitter.com/naupakaz); [naupaka.net](http://naupaka.net)) on apps for the Mac to enhance your academic software development workflow.
+I'm at the [Stanford Software Carpentry (SWC) bootcamp](http://ivanov.github.io/2014-06-30-stanford/) today and got some great suggestions from one of the SWC intstructors Naupaka Zimmerman ([@naupakaz](https://twitter.com/naupakaz); [naupaka.net](http://naupaka.net)) on apps for the Mac to enhance productivity for academics developing software and analyzing data.
 
 #### Terminal and text
 
