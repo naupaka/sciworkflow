@@ -83,7 +83,12 @@ In closing, Naupaka said "Make sure people know about [Homebrew](http://brew.sh/
 
 #### The end
 
-These are a lot of suggestions to digest. I'm hoping to also collect suggestions for Windows and Linux users but to keep these separate from the Mac suggestions. I would also like it if there was a way to make these suggestions more scientific, e.g. having people vote on their preferences, perhaps taking a page from Reddit. For now I'm looking forward to experimenting with each and sharing my perspectives. I hope you will also share yours, including alternatives to those discussed above. Tweet @datascimed or leave a comment below. Here's a summary of what we covered.
+These are a lot of suggestions to digest. I'm hoping to also collect suggestions for Windows and Linux users but to keep these separate from the Mac suggestions. I would also like it if there was a way to make these suggestions more scientific, e.g. having people vote on their preferences, perhaps taking a page from Reddit. For now I'm looking forward to experimenting with each and sharing my perspectives. I hope you will also share yours, including alternatives to those discussed above. 
+
+<blockquote class="twitter-tweet" lang="en"><p>Help improve this academic software dev workflow <a href="http://t.co/LgdOpxbV4K">http://t.co/LgdOpxbV4K</a> from <a href="https://twitter.com/datascimed">@datascimed</a> <a href="https://twitter.com/naupakaz">@naupakaz</a> <a href="https://twitter.com/swcarpentry">@swcarpentry</a> <a href="https://twitter.com/MozillaScience">@MozillaScience</a> <a href="https://twitter.com/hashtag/openscience?src=hash">#openscience</a></p>&mdash; Open Science (@openscience) <a href="https://twitter.com/openscience/statuses/484216799706509312">July 2, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Tweet @datascimed or leave a comment below. Here's a summary of what we covered.
 
 *Terminal and text*
 
