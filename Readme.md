@@ -54,7 +54,12 @@ Continuing this long list of amazing apps I had never heard of, Naupaka suggeste
 
 #### Collaborative manuscripts
 
-We've been using [Authorea](https://www.authorea.com/) in the Eisen Lab for collaborative manuscript-ing and I'm interested in how to do this better. The dream here is to simultaneously have a simple interface (acceptable to Word users, i.e. P.I.'s) on top of the power of git and iPython. Naupaka noted that Authorea has the ability to be [linked to a git repository](https://www.authorea.com/issues/8) as well as to [work with iPython](https://authorea.com/users/3/articles/3904/_show_article). Paul Ivanov (another instructor at the SWC bootcamp today who did a fantastic job; [@ivanov](http://twitter.com/ivanov);  [http://pirsquared.org/](http://pirsquared.org/)), one of the iPython core developers, said [Google Docs integration](https://plus.google.com/app/basic/stream/z133vvygwpzxc3co404cchobnq3wzl25jik) is planned for iPython.
+We've been using [Authorea](https://www.authorea.com/) in the Eisen Lab for collaborative manuscript-ing and I'm interested in how to do this better. The dream here is to simultaneously have a simple interface (acceptable to Word users, i.e. P.I.'s) on top of the power of git and iPython. Naupaka noted that Authorea has the ability to be [linked to a git repository](https://www.authorea.com/issues/8) as well as to [work with iPython](https://authorea.com/users/3/articles/3904/_show_article). This would allow work on a manuscript to continue if the collaborative web service hosting the content goes down, as happend with Authorea on July 3, 2014.
+
+<blockquote class="twitter-tweet" lang="en"><p>Update: Our server received a DDoS attack and they&#39;re working at restoring service. Please be patient. (All data is safe.)</p>&mdash; Authorea (@authorea) <a href="https://twitter.com/authorea/statuses/484710812591095808">July 3, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Paul Ivanov (another instructor at the SWC bootcamp today who did a fantastic job; [@ivanov](http://twitter.com/ivanov);  [http://pirsquared.org/](http://pirsquared.org/)), one of the iPython core developers, said [Google Docs integration](https://plus.google.com/app/basic/stream/z133vvygwpzxc3co404cchobnq3wzl25jik) is planned for iPython.
 
 #### Work environment
 
