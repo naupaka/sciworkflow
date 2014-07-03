@@ -8,7 +8,7 @@ I'm at the [Stanford Software Carpentry (SWC) bootcamp](http://ivanov.github.io/
 
 1. [Terminal and text](#terminal-and-text)
 2. [Version control](#version-control)
-3. [Digital workspace](#digital-workspace)
+3. [Digital workspace](#digital_workspace)
 4. [Backup](#backup)
 5. [Project management](#project-management)
 6. [Literature management](#literature-management)
