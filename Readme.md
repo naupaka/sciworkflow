@@ -4,7 +4,18 @@
 
 --
 
-I'm at the [Stanford Software Carpentry (SWC) bootcamp](http://ivanov.github.io/2014-06-30-stanford/) today and got some great suggestions from one of the SWC intstructors Naupaka Zimmerman ([@naupakaz](https://twitter.com/naupakaz); [naupaka.net](http://naupaka.net)) on apps for the Mac to enhance productivity for academics developing software and analyzing data.
+I'm at the [Stanford Software Carpentry (SWC) bootcamp](http://ivanov.github.io/2014-06-30-stanford/) today and sat down with one of the SWC intstructors Naupaka Zimmerman ([@naupakaz](https://twitter.com/naupakaz); [naupaka.net](http://naupaka.net)) to talk about applications for the Mac to enhance productivity for academics developing software and analyzing data. This post contains the following sections:
+
+1. [Terminal and text](#terminal-and-text)
+2. [Version control](#version-control)
+3. [Digital workspace](#digital-workspace)
+4. [Backup](#backup)
+5. [Project management](#project-management)
+6. [Literature management](#literature-management)
+7. [Digital lab notebook](#digital-lab-notebook)
+8. [Communication](#communication)
+9. [Work environment](#work-environment)
+
 
 #### Terminal and text
 
