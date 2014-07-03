@@ -26,7 +26,10 @@ On the Mac, Spotlight is great but Naupaka prefers [Launchbar](http://www.obdev.
 
 If your drives containing all of your code and writing for your dissertation fail, you will haz problem. That's why it is worth your time to design and implement a thorough data backup and redundancy plan. Naupaka suggests using [Dropbox](http://dropbox.com) as your first tier of backup, which can be used both to sync files present in the normal Dropbox folder as well as files and folders with symbolic links within that folder (link to blog post). For the next tier, he recommends having your files backed up locally, such as to an external drive. It is often useful to have both the versions supported by Time Machine AND a full clone of the drive. For full drive, bootable backups he likes [Super Duper](http://www.shirt-pocket.com/SuperDuper/superduperdescription.html) and [Carbon Copy Cloner](http://www.bombich.com/). The deepest level of backup he recommends is saving your files to [Amazon Glacier](http://aws.amazon.com/glacier/), facilitated by the program [Arq](http://www.haystacksoftware.com/arq/). Glacier [pricing](http://aws.amazon.com/glacier/pricing/) is $10/TB per month with free transfer in and around $0.12/GB for transfers out (if you ever need to retrieve your backups from the deep freeze). 
 
-In addition to your backup, [1Password](https://agilebits.com/onepassword) makes password management convenient (never reuse a password more than once!).
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p><a href="https://twitter.com/davidacoil">@davidacoil</a> <a href="https://twitter.com/datascimed">@datascimed</a> <a href="https://twitter.com/HensonMW_08">@HensonMW_08</a> very nice set of resources- thank you! I would recommend <a href="https://twitter.com/backblaze">@backblaze</a> for backup (1/2)</p>&mdash; Cameron Thrash (@DrJCThrash) <a href="https://twitter.com/DrJCThrash/statuses/484680308143718400">July 3, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Other alternatives for backup include [Backblaze](http://www.backblaze.com/) ($3.96/mo., unlimited), recommended by @DrJCThrash, and [Crash Plan](http://www.code42.com/crashplan/) ($4-$6/mo., unlimited). In addition to your backup, [1Password](https://agilebits.com/onepassword) makes password management convenient (never reuse a password more than once!).
 
 #### Project management
 
@@ -40,7 +43,10 @@ I'm interested in learning more about how to manage the onslaught of the scienti
 
 #### Digital lab notebook
 
-I have experimented with keeping a digital lab notebook using [Evernote](https://evernote.com/) but the problem I ran into was that sync conflicts arose when I created a note on my desktop (e.g. a long laboratory protocol) and edited it on my phone (in the lab). Naupaka solves this problem by using Evernote with very high granularity (one note per gel image, microscope image, observation, etc.). Each of these can be tagged and are time stamped. Many notes can be organized into sets that take the place of the one-single-long-note-per-protocol approach I was taking. Icing the cake, Evernote provides image to text functionality which means that when you add photographs of your paper lab notebook to Evernote their text will be searchable.
+I have experimented with keeping a digital lab notebook using [Evernote](https://evernote.com/) but the problem I ran into was that sync conflicts arose when I created a note on my desktop (e.g. a long laboratory protocol) and edited it on my phone (in the lab). Naupaka solves this problem by using Evernote with very high granularity (one note per gel image, microscope image, observation, etc.). Each of these can be tagged and are time stamped. Many notes can be organized into sets that take the place of the one-single-long-note-per-protocol approach I was taking. Icing the cake, Evernote provides image to text functionality which means that when you add photographs of your paper lab notebook to Evernote their text will be searchable. Prof. Cameron Thrash (@DrJCThrash) pointed out that the [pro version of Evernote](http://evernote.com/contact/support/kb/#!/article/27986277) is good for labs because it supports collaboration and version control.
+
+<blockquote class="twitter-tweet" data-conversation="none" lang="en"><p><a href="https://twitter.com/davidacoil">@davidacoil</a> <a href="https://twitter.com/datascimed">@datascimed</a> <a href="https://twitter.com/HensonMW_08">@HensonMW_08</a> ...also, remind that <a href="https://twitter.com/evernote">@evernote</a> premium has version control and shared notebooks so great for labs (2/2)</p>&mdash; Cameron Thrash (@DrJCThrash) <a href="https://twitter.com/DrJCThrash/statuses/484680630534676480">July 3, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 #### Communication
 
@@ -93,6 +99,8 @@ These are a lot of suggestions to digest. I'm hoping to also collect suggestions
 * [Carbon Copy Cloner](http://www.bombich.com/)
 * [Amazon Glacier](http://aws.amazon.com/glacier/)
 * [Arq](http://www.haystacksoftware.com/arq/)
+* [Backblaze](http://www.backblaze.com/)
+* [Crash Plan](http://www.code42.com/crashplan/)
 * [1Password](https://agilebits.com/onepassword)
 
 *Project management*
